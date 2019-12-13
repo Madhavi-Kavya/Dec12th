@@ -10,7 +10,7 @@ public class Steps {
 	@Given("^OPen The FireFox Browser$")
 	public void OpenFireFoxBrowser()
 	{
-		System.out.println("Here  we are Opening the FireFox Browser");
+		System.out.println("Here we are Opening the FireFox Browser");
 	}
 	@When("^Enter Your Login Details$")
 	public void EnterLoginDetails()
