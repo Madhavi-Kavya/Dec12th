@@ -14,7 +14,7 @@ public class PO_AMonitorAndMeasure {
 	public @FindBy(xpath="/html/body/app-root/app-mainpage/mat-sidenav-container/mat-sidenav-content/app-monitoring-measurements/div/div[2]/div[2]/div/div[1]/div/span") WebElement countReScheduled;
 
 	public @FindBy(xpath="/html/body/app-root/app-mainpage/mat-sidenav-container/mat-sidenav-content/app-monitoring-measurements/div/div[2]/div[2]/div/div[2]/a") WebElement buttonReSchedule;
-	                    ///html/body/app-root/app-mainpage/mat-sidenav-container/mat-sidenav-content/app-monitoring-measurements/div/div[2]/div[2]/div/div[2]/a
+	                     ///html/body/app-root/app-mainpage/mat-sidenav-container/mat-sidenav-content/app-monitoring-measurements/div/div[2]/div[2]/div/div[2]/a
 
 	public @FindBy(xpath="/html/body/app-root/app-mainpage/mat-sidenav-container/mat-sidenav-content/app-monitoring-measurements/div/div[2]/div[3]/div/div[1]/div/span") WebElement countCompleted;
 

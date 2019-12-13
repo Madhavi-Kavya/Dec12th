@@ -36,7 +36,7 @@ import AgilityTestNGpackage.TestNgPO_AMonitorAndMeasure;
 import AgilityTestNGpackage.TestNgPO_AgilityHomePage;
 import AgilityTestNGpackage.TestNgPO_RecurrenceButton;
 
-public class DataProviderReusableMethods {
+public class DataProviderReusableMethods { 
   
 	public static WebDriver driver;
 	File f;

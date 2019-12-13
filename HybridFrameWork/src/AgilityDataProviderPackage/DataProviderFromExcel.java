@@ -67,7 +67,7 @@ public class DataProviderFromExcel {
      
      objectExcel[0][3] = ARM.S.getCell(4, 0).getContents();
 
-      objectExcel[1][3] = ARM.S.getCell(4, 1).getContents();
+     objectExcel[1][3] = ARM.S.getCell(4, 1).getContents();
     
     return objectExcel;
   }

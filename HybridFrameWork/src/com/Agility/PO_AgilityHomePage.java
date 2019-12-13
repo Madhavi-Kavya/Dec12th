@@ -14,7 +14,7 @@ public class PO_AgilityHomePage {
 	public @FindBy(xpath="//*[@id='btnLogin']/span") WebElement PO_LoginButton;
 
 }
-
+ 
 //IE
 //<span class="mat-button-wrapper">
 //<input class="form-control ng-untouched ng-pristine ng-invalid" type="password" placeholder="Please Enter Password" _ngcontent-c2="" formControlName="Password" trim="blur" ng-reflect-trim="blur" ng-reflect-type="password" ng-reflect-name="Password" value=""/>

@@ -34,7 +34,7 @@ import org.testng.annotations.Test;
 
 import com.Agility.A_ReusableMethods;
 
-public class ReusableTestMethods {
+public class ReusableTestMethods { 
 	
 	public static WebDriver driver;
 	File f;

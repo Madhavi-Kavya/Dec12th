@@ -18,3 +18,4 @@ public class PO_RecurrenceButton {
 	public @FindBy(xpath="/html/body/app-root/app-mainpage/mat-sidenav-container/mat-sidenav-content/app-monitoring-measurements/div/div[1]/div[2]/div/span[5]") WebElement ColourCompleted;
 	///html/body/app-root/app-mainpage/mat-sidenav-container/mat-sidenav-content/app-monitoring-measurements/div/div[1]/div[2]/div/span[1]
 }
+ 

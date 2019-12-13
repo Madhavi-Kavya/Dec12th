@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 public class CallingReusableMethods {
 	
 	public static void main(String[] arg) throws Exception
-	{
+	{ 
 		
 		ReusableMethodsClass R = new ReusableMethodsClass();
 		

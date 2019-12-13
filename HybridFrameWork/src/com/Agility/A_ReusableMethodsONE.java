@@ -18,7 +18,7 @@ public class A_ReusableMethodsONE {
 	
 	PO_RecurrenceButton POrecurrenceButton;
 	public void checkingColours()
-	{
+	{ 
 		String col;
 		col = POrecurrenceButton.ColourScheduled.getCssValue("background-color").trim();
 		System.out.println("Colour Of Label Scheduled : " + col);

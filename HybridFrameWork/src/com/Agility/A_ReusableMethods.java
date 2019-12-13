@@ -32,7 +32,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
 
-public class A_ReusableMethods {
+public class A_ReusableMethods { 
 	
 	public static final String USERNAME = "madhavi70";
 	public static final String AUTOMATE_KEY = "5cib33WKYVsSr5Pipxw3";

@@ -3,7 +3,7 @@ package AgilityTestNGpackage;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class TestNgPO_RecurrenceButton {
+public class TestNgPO_RecurrenceButton { 
 	
     public @FindBy(xpath="//*[@id='mat-button-toggle-3']/label/div") WebElement recurrenceButton;
 	

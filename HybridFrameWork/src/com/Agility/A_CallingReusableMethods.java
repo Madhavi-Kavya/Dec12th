@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class A_CallingReusableMethods {
 	
 	public static void main(String[] arg) throws Exception
-	{
+	{ 
 				
 		A_ReusableMethods A_RM = new A_ReusableMethods();		
 	

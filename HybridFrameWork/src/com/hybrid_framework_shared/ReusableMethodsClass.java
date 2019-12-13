@@ -30,7 +30,7 @@ public class ReusableMethodsClass {
 	public WebDriverWait WW;
 	public Workbook W;
 	public Sheet S;
-	
+	 
 	
 	//***************************************************************************
 	//Method Name   : LaunchApplication

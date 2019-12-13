@@ -16,7 +16,7 @@ public class PO_HomePage {
 	public @FindBy(xpath="//*[@id='qsbFormBtn']") WebElement PO_button;
 	
 }
-
+ 
 //	R.driver.findElement(By.xpath("//*[@id='p0widget']/div/div[1]/div/input"))
 
 ////*[@id="skill"]/div[1]/div[2]/input

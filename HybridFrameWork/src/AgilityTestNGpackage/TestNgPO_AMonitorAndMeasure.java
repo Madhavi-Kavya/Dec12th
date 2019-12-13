@@ -3,7 +3,7 @@ package AgilityTestNGpackage;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class TestNgPO_AMonitorAndMeasure {
+public class TestNgPO_AMonitorAndMeasure { 
 	
 	public @FindBy(xpath ="/html/body/app-root/app-mainpage/mat-sidenav-container/mat-sidenav-content/app-monitoring-measurements/div/div[2]/div[1]/div/div[1]/div/span") WebElement countScheduled;
 
