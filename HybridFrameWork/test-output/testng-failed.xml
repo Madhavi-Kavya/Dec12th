@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [HybridFrameWork]">
+  <parameter name="password" value="!@Htcbaka7101"/>
+  <parameter name="SDate" value="13/2/2019"/>
+  <parameter name="testFilePath" value="C:\\Users\\rgunturu\\Desktop\\JavaPractise\\HybridFrameWork Shared Folder\\Test Result\\A_dropDownBoxSelected.png"/>
+  <parameter name="expectedCount" value="28"/>
+  <parameter name="userid" value="rgunturu"/>
+  <parameter name="excelFileName" value="C:\\Users\\rgunturu\\Desktop\\JavaPractise\\HybridFrameWork Shared Folder\\Test Data\\E_DATA.xls"/>
+  <parameter name="url" value="http://10.201.208.130:8084/login"/>
+  <parameter name="EDate" value="23/6/2019"/>
+  <test name="AgilityTestNGpackage1(failed)">
+    <parameter name="password" value="!@Htcbaka7101"/>
+    <parameter name="SDate" value="13/3/2019"/>
+    <parameter name="testFilePath" value="C:\\Users\\rgunturu\\Desktop\\JavaPractise\\HybridFrameWork Shared Folder\\Test Result\\A_dropDownBoxSelected.png"/>
+    <parameter name="expectedCount" value="18"/>
+    <parameter name="userid" value="rgunturu"/>
+    <parameter name="excelFileName" value="C:\\Users\\rgunturu\\Desktop\\JavaPractise\\HybridFrameWork Shared Folder\\Test Data\\E_DATA.xls"/>
+    <parameter name="url" value="http://10.201.208.130:8084/login"/>
+    <parameter name="EDate" value="23/8/2019"/>
+    <classes>
+      <class name="AgilityTestNGpackage.ReusableTestMethods">
+        <methods>
+          <include name="selectDropDownBox" invocation-numbers="0"/>
+          <include name="checkMonitorAndMeasure"/>
+          <include name="countingFlipperCards"/>
+          <include name="closeApplication"/>
+          <include name="closeApplication"/>
+          <include name="recurrenceButtonCheck"/>
+          <include name="checkingColours"/>
+          <include name="selectDatePicker" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- AgilityTestNGpackage.ReusableTestMethods -->
+    </classes>
+  </test> <!-- AgilityTestNGpackage1(failed) -->
+</suite> <!-- Failed suite [HybridFrameWork] -->

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Default suite]]">
+  <test name="Default test(failed)(failed)">
+    <classes>
+      <class name="AgilityDataProviderPackage.DataProviderReusableMethods">
+        <methods>
+          <include name="selectDropDownBox"/>
+          <include name="checkMonitorAndMeasure"/>
+          <include name="checkCountInDropDownBox"/>
+          <include name="closeApplication"/>
+          <include name="launchApplicationChrome"/>
+          <include name="checkingColours"/>
+          <include name="countingFlipperCards"/>
+          <include name="enterLoginDetails"/>
+          <include name="excelConnection"/>
+          <include name="recurrenceButtonCheck"/>
+          <include name="selectDatePicker"/>
+        </methods>
+      </class> <!-- AgilityDataProviderPackage.DataProviderReusableMethods -->
+    </classes>
+  </test> <!-- Default test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Default suite]] -->

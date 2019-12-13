@@ -1,0 +1,48 @@
+<suite name= "HybridFrameWork" >
+<test name="AgilityTestNGpackage1">
+
+<parameter name="excelFileName" value="C:\\Users\\rgunturu\\Desktop\\JavaPractise\\HybridFrameWork Shared Folder\\Test Data\\E_DATA.xls">  </parameter>
+
+<parameter name="url" value="http://10.201.208.130:8084/login" > </parameter>
+
+<parameter name= "userid" value="rgunturu"> </parameter>
+
+<parameter  name="password"  value="!@Htcbaka7101">  </parameter>
+
+<parameter name= "expectedCount" value="18">  </parameter>
+
+<parameter name="testFilePath"  value="C:\\Users\\rgunturu\\Desktop\\JavaPractise\\HybridFrameWork Shared Folder\\Test Result\\A_dropDownBoxSelected.png">  </parameter>
+
+<parameter name="SDate"  value="13/3/2019">  </parameter>
+<parameter name="EDate"  value="23/8/2019">  </parameter>
+
+<classes>
+	<class name = "AgilityTestNGpackage.ReusableTestMethods"> </class>
+</classes>
+
+</test>
+//////////////////////////////////////////////////////////////////////////////////////////////
+
+<test name="AgilityTestNGpackage2">
+
+<parameter name="excelFileName" value="C:\\Users\\rgunturu\\Desktop\\JavaPractise\\HybridFrameWork Shared Folder\\Test Data\\E_DATA.xls">  </parameter>
+
+<parameter name="url" value="http://10.201.208.130:8084/login" > </parameter>
+
+<parameter name= "userid" value="rgunturu"> </parameter>
+
+<parameter  name="password"  value="!@Htcbaka7101">  </parameter>
+
+<parameter name= "expectedCount" value="28">  </parameter>
+
+<parameter name="testFilePath"  value="C:\\Users\\rgunturu\\Desktop\\JavaPractise\\HybridFrameWork Shared Folder\\Test Result\\A_dropDownBoxSelected.png">  </parameter>
+
+<parameter name="SDate"  value="13/2/2019">  </parameter>
+<parameter name="EDate"  value="23/6/2019">  </parameter>
+
+<classes>
+	<class name = "AgilityTestNGpackage.ReusableTestMethods"> </class>
+</classes>
+
+</test>
+</suite>
